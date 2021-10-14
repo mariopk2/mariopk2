@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariopk2
-- 👀 I’m interested in php and magento development
-- 🌱 I’m currently learning Magento, PHP, MySQL, PostreSQL, Python, HTML, CSS,jQuery, Bootstrap
+- 👀 I’m interested in php, react and swift development
+- 🌱 I’m currently learning SCSS, SASS, Swift
 
 
 <!---
